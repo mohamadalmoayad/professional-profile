@@ -4,7 +4,7 @@ Alexandria, Egypt | +201223915465 | mohamadalmoayad@gmail.com | [GitHub](https:/
 
 ## Professional Summary
 
-Experienced Software Architect and Tech Lead with a strong background in full-stack development, project management, and team leadership. Skilled in architecting scalable solutions, mentoring team members, and delivering high-quality software products. Proficient in various programming languages and frameworks, with a focus on backend development and mobile applications.
+Experienced Software Architect and Tech Lead specializing in backend development with a strong foundation in full-stack solutions. Adept at architecting scalable and robust server-side systems, with additional expertise in frontend technologies. Skilled in project management and team leadership, consistently delivering high-quality software products. Proficient in various programming languages and frameworks, with a primary focus on backend technologies, complementary frontend skills, and a working knowledge of mobile application development. Committed to mentoring team members and driving technological excellence in software projects.
 
 ## Professional Experience
 
